@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AdminCollege" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/deeppurple</item>
+        <item name="colorPrimaryVariant">@color/deeppurple</item>
+        <item name="colorOnPrimary">@color/lightGray</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/green1</item>
+        <item name="colorSecondaryVariant">@color/green1</item>
+        <item name="colorOnSecondary">@color/red2</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
